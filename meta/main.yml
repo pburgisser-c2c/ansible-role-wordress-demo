@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: pburgisser.wordpress
   author: pburgisser
   description: Wordpress basic install for demo
   company: "Camptocamp Switzerland"
